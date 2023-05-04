@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/codewind-spring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/codewind-spring/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/codewind/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/codewind/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dashboard/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dashboard/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dashboard/src/main/webapp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaagent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaagent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prometheus/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prometheus/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/src/main/java" charset="UTF-8" />
+  </component>
+</project>
